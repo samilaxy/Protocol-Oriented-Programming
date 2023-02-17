@@ -6,3 +6,16 @@
 //
 
 import Foundation
+
+class TelephoneClass {
+    func call() {
+        
+    }
+    func hangUp(){
+        
+    }
+}
+
+class LandlineClass: TelephoneClass {
+    <#code#>
+}
